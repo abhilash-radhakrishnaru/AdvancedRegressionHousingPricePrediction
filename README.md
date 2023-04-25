@@ -1,5 +1,4 @@
 # Advanced Regression Assignment - House price prediction
-Build a multiple linear regression model for the prediction of demand for shared bikes
 
 
 ## Table of Contents
