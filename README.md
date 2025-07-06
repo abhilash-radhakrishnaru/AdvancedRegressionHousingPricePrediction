@@ -64,7 +64,3 @@ log(SalePrice) = C + 0.13*GrLivArea + 0.092*OverallQual + 0.05*YearBuilt + 0.042
 - seaborn library
 - sklearn library
 - statsmodels library
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by upGrad's assignment
