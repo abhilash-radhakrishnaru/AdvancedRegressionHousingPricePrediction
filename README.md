@@ -1,4 +1,4 @@
-# Advanced Regression Assignment - House price prediction
+# Advanced Regression Example - House price prediction
 
 
 ## Table of Contents
